@@ -1,6 +1,7 @@
 cachetools==5.5.2
 certifi==2025.7.14
 charset-normalizer==3.4.2
+defusedxml==0.7.1
 fortls==3.2.2
 google-api-core==2.25.1
 google-api-python-client==2.177.0
@@ -22,3 +23,4 @@ setuptools==78.1.1
 uritemplate==4.2.0
 urllib3==2.5.0
 wheel==0.45.1
+youtube-transcript-api==1.2.1
