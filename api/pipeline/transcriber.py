@@ -28,6 +28,6 @@ def transcribe(audio_path: str, model_dir: str = "./models") -> str:
         return f.read()
 
 if __name__ == "__main__":
-    audio_file = "storage/Funniest Leadership Speech ever!.mp3"  # replace with your file
+    audio_file = "/home/mafalda/Projects/video2podcast/storage/Funniest Leadership Speech ever!.mp3"  # replace with your file
     result = transcribe(audio_file)
     print("Transcription result:\n", result)

@@ -20,8 +20,7 @@ run-downloader:
 run-transcriber:
 	docker run --rm \
 		-v $(PWD)/storage:/app/storage \
-		-v $(PWD)/models:/app/models \
-		$(IMAGE_NAME) \
+		yt-pipeline \
 		python pipeline/transcriber.py
 
 # Run uvicorn app normally
