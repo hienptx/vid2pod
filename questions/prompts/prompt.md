@@ -1,3 +1,5 @@
-Objective: Generate a list of podcast questions based on the video transcription and audience comments.
+Objective: Generate a 1000-word, two-person podcast dialogue based on the source material below.
 
-Instructions: The questions must be fun, friendly, and instructive. They need to be sharp and clear, following your core writing principles. The goal is to create a list that will spark a natural, insightful conversation.
+Instructions: The dialogue should feature the two hosts, Alex and Ben, discussing the topic in a friendly, fluid, and instructive way. The conversation must explore the video's main idea and the key issues raised in the comments. It needs to follow your core writing principles (clarity, no fluff, natural language).
+
+Source Material: the video transcription and the comments from audience.
